@@ -1,0 +1,70 @@
+{
+   "profile_privacy": "me",
+   "allow_contact_lookup": "undetermined",
+   "cross_use_linked_dsid": 0,
+   "turn_based_games": [],
+   "auth_data": {
+      "auth_modified_epoch": 1773346512584,
+      "auth_status": 0,
+      "auth_password_serial_number": 1733025395,
+      "auth_version": 155
+   },
+   "arcade_subscription_expiration": 0,
+   "game_state": [
+      {
+         "game_name": "Flow Free",
+         "leaderboard": [],
+         "achievements": [
+            {
+               "last_update_utc": "10/04/2021 16:08:51",
+               "percentage_complete": 100,
+               "achievements_title": "Rookie"
+            },
+            {
+               "last_update_utc": "10/05/2021 03:35:58",
+               "percentage_complete": 100,
+               "achievements_title": "Novice"
+            },
+            {
+               "last_update_utc": "10/05/2021 03:44:16",
+               "percentage_complete": 100,
+               "achievements_title": "Amateur - Perfection!"
+            },
+            {
+               "last_update_utc": "10/04/2021 16:09:00",
+               "percentage_complete": 100,
+               "achievements_title": "Rookie - Perfection!"
+            },
+            {
+               "last_update_utc": "10/05/2021 03:36:07",
+               "percentage_complete": 100,
+               "achievements_title": "Novice - Perfection!"
+            },
+            {
+               "last_update_utc": "10/05/2021 03:44:06",
+               "percentage_complete": 100,
+               "achievements_title": "Amateur"
+            }
+         ],
+         "challenges": [],
+         "last_played_utc": "04/06/2022 07:38:38"
+      },
+      {
+         "game_name": "Fruit Ninja 2",
+         "leaderboard": [],
+         "achievements": [],
+         "challenges": [],
+         "last_played_utc": "08/11/2022 07:21:17"
+      }
+   ],
+   "games_privacy_notice_version": 0,
+   "terms_data": {
+      "terms_version": 0,
+      "previous_terms_version": 0,
+      "terms_accepted_time": 0
+   },
+   "activity_feed": [],
+   "games_cross_use_notice_version": 0,
+   "privacy_notice_version": 0,
+   "friends_api": {"allow_friends_api": "undetermined"}
+}
